@@ -7,6 +7,17 @@ What the model does:
 2. Using the schrodinger equation, sample r, theta, and phi coordinates from those quantum numbers
 3. Render those possible positions and color code them relative to their probabilities (brighter areas have higher probability)
 
+## **Visualization**
+
+### Schrödinger Equation
+
+![Schrödinger Equation](./equation.jpeg)
+
+### Demo Video
+
+https://github.com/shanmuckh/Atom_Simulation/atoms-simulation.mp4
+
+
 ## **Building Requirements:**
 
 1. C++ Compiler supporting C++ 17 or newer
