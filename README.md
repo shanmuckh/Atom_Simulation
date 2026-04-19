@@ -15,7 +15,10 @@ What the model does:
 
 ### Demo Video
 
-https://github.com/shanmuckh/Atom_Simulation/atoms-simulation.mp4
+<video width="400" height="400" controls>
+	<source src="https://github.com/shanmuckh/Atom_Simulation/raw/main/atoms-simulation.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
 
 
 ## **Building Requirements:**
