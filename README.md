@@ -9,14 +9,13 @@ What the model does:
 
 ## **Visualization**
 
-## 🎥 Demo Video
-
-https://github.com/user-attachments/assets/eea79cd6-5351-4e89-b4cf-8c651953c76c
-
-
 ### Schrödinger Equation
 
 ![Schrödinger Equation](./equation.jpeg)
+
+### Demo Video
+
+https://github.com/shanmuckh/Atom_Simulation/blob/main/atoms-simulation.mp4
 
 
 ## **Building Requirements:**
